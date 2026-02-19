@@ -1,0 +1,12 @@
+{
+  "name": "api-booking-restful-cypress",
+  "version": "1.0.0",
+  "description": "API Booking Restful tests with Cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.10.0"
+  }
+}
